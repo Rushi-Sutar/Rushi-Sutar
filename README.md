@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rushikesh Sutar. and I'm a Frontend Developer, from India</p>
+<p align="left">My name is Rushikesh Sutar. and I'm a Frontend Developer, from India </p>
 
 ###
 
