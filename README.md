@@ -37,5 +37,11 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+<div>
+  
+![snake_gif](https://github.com/Rushi-Sutar/Rushi-Sutar/blob/main/Snake-Dark.svg)
+
+</div>
+
 ###
 
