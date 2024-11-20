@@ -41,9 +41,6 @@
   
 ![snake_gif](https://github.com/Rushi-Sutar/Rushi-Sutar/blob/main/Snake-Dark.svg)
 
-![snake eating contributions](https://github.com/Rushi-Sutar/Rushi-Sutar/blob/main/test.svg)
-
-
 </div>
 
 ###
