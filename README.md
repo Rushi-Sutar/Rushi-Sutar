@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Rushikesh Sutar. and I'm a Frontend Developer, from India </p>
+<p align="left">👋 Hi there! I'm <b>Rushikesh Sutar</b>, a passionate <b>Full Stack Developer</b> and <b>React Native Android Developer</b> with a knack for building scalable and efficient applications. 🚀
+
+With hands-on experience in both front-end and back-end development, I specialize in crafting seamless user experiences and robust back-end systems. I’m particularly skilled in technologies like JavaScript, React, Node.js, Express, PostgreSQL, and React Native, allowing me to deliver end-to-end solutions for web and mobile platforms.</p>
 
 ###
 
